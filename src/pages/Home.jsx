@@ -30,7 +30,7 @@ function Home() {
         transition={{ delay: 0.3 }}
       >
         <p className="text-lg text-gray-700">
-          We collect free books from US public libraries and send them to orphanages in India, giving children access to knowledge and imagination.
+          “Books Beyond Borders is a community initiative to give retired Bay Area books a new life — in the hands of underprivileged children in India. We believe books spark imagination, creativity, and joy.”We collect free books from US public libraries and send them to orphanages in India, giving children access to knowledge and imagination.
         </p>
         <div className="mt-6 flex justify-center gap-4">
           <a href="/get-involved" className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700">Get Involved</a>
